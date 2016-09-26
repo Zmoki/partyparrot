@@ -1,5 +1,9 @@
 # History
 
+## 1.0.4, 2016-09-26
+
+* Add travis
+
 ## 1.0.3, 2016-09-26
 
 * Added Node.js support with isomorphic-fetch
