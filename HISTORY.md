@@ -1,5 +1,10 @@
 # History
 
+## 1.0.3, 2016-09-26
+
+* Added Node.js support with isomorphic-fetch
+* Added tests
+
 ## 1.0.2, 2016-09-26
 
 * Change license to MIT
