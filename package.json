@@ -1,6 +1,6 @@
 {
   "name": "partyparrot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get gif of party parrot. With love for http://cultofthepartyparrot.com/",
   "main": "index.js",
   "scripts": {
