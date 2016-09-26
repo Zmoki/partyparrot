@@ -4,7 +4,7 @@
   "description": "Get gif of party parrot. With love for http://cultofthepartyparrot.com/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -16,6 +16,20 @@
     "url": "https://github.com/Zmoki/partyparrot/issues"
   },
   "homepage": "https://github.com/Zmoki/partyparrot#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.14.0",
+    "babel-register": "^6.14.0"
+  },
+  "ava": {
+    "files": [
+      "tests/**/*.test.js"
+    ],
+    "require": "babel-register",
+    "babel": {
+      "babelrc": true
+    }
+  },
   "dependencies": {
     "isomorphic-fetch": "^2.2.1"
   }
