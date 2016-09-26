@@ -1,0 +1,19 @@
+{
+  "name": "partyparrot",
+  "version": "1.0.0",
+  "description": "Get gif of party parrot. With love for http://cultofthepartyparrot.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmoki/partyparrot.git"
+  },
+  "author": "Zarema Khalilova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zmoki/partyparrot/issues"
+  },
+  "homepage": "https://github.com/Zmoki/partyparrot#readme"
+}
