@@ -2,6 +2,8 @@
 
 Add gif with party parrot to yuor project for start party!
 
+[![Build Status](https://travis-ci.org/Zmoki/partyparrot.svg)](https://travis-ci.org/Zmoki/partyparrot)
+
 ## Install
 
 ```
