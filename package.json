@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zmoki/partyparrot/issues"
   },
-  "homepage": "https://github.com/Zmoki/partyparrot#readme"
+  "homepage": "https://github.com/Zmoki/partyparrot#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
 }

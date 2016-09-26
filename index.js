@@ -1,3 +1,5 @@
+import fetch from 'isomorphic-fetch'
+
 function listOfPartyParrots() {
 	return new Promise((resolve, reject) => {
 		const parrotsUrl = 'https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots.json'
